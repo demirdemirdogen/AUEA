@@ -4,6 +4,7 @@
     margin:0 auto;
     width: 100px;
     top:10px;
+    display: inline;
 }
 
 .header-container
@@ -30,4 +31,6 @@ h1{
   padding-right: 20px;
   padding-left: 20px;
   padding-bottom: 10px;
+  display:inline
+
     }
